@@ -1,6 +1,6 @@
 # Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&vCenter=true&repeat=false&width=435&height=40&lines=My+name+is+Chu.)](https://git.io/typing-svg)
+
 
 - 🎓 I’m currently a junior majoring in CSIE at NCU.  
 - ✏️ Preparing for my master’s degree entrance exam now!
